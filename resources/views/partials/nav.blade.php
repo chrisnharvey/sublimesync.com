@@ -17,7 +17,7 @@
                 <li><a href="/packages">Your Packages</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/"><i class="fa fa-github"></i> Login with GitHub</a></li>
+                <li><a href="/login"><i class="fa fa-github"></i> Login with GitHub</a></li>
             </ul>
         </div>
     </div>
